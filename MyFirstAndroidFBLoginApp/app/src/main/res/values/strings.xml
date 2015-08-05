@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstAndroidFBLoginApp</string>
+
+    <string name="hello_world">Welcome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">936524806369464</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
